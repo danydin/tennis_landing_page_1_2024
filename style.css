@@ -176,6 +176,7 @@ p{
   .custom-select {
     min-width: 100%;
     position: relative;
+    direction: rtl;
   }
   
   select {
