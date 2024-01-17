@@ -32,7 +32,7 @@
 .container{
  width: 100vw;
  height: 100dvh;
- background-image: url(./assets/sky_4\ _7.png);
+ background-image: url(./assets/sky.png);
  object-fit: contain;
  background-repeat: no-repeat repeat;
  background-position: center;
